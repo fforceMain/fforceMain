@@ -24,11 +24,12 @@ Curioso por tecnologia, tentando escrever algo um pouco melhor do que ontem.
 - **Back-end:** C#, .NET  
 - **Banco de dados:** PostgreSQL, Informix, MongoDB, Redis
 
+---
 
 <p align="center">
   <img 
     src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"
-    width="200
+    width="180"
     alt="Coding gif"
   />
 </p>
