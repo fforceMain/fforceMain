@@ -1,6 +1,5 @@
 # 👋 Opa! Eu sou o Bruno
 
-
 <strong>👨‍💻 Software Developer</strong><br/><br/>
 ⚛️ <strong>React</strong> &nbsp;|&nbsp; 💠 <strong>C#</strong> &nbsp;|&nbsp; 🧩 <strong>.NET</strong><br/><br/>
 
