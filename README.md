@@ -5,6 +5,10 @@
 
 ---
 
+![snake gif](https://github.com/fforceMain/fforceMain/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 Curioso por tecnologia, tentando escrever algo um pouco melhor do que ontem.
 
 ---
