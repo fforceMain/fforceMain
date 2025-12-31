@@ -3,8 +3,6 @@
 
 <strong>👨‍💻 Software Developer</strong><br/><br/>
 ⚛️ <strong>React</strong> &nbsp;|&nbsp; 💠 <strong>C#</strong> &nbsp;|&nbsp; 🧩 <strong>.NET</strong><br/><br/>
-<span style="font-size: 18px;">🐙 <strong>GitHub</strong></span>
-
 
 ---
 
@@ -29,7 +27,7 @@ Curioso por tecnologia, tentando escrever algo um pouco melhor do que ontem.
 <p align="center">
   <img 
     src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"
-    width="180"
+    width="190"
     alt="Coding gif"
   />
 </p>
